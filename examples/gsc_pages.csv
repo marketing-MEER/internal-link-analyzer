@@ -1,0 +1,6 @@
+Top pages,Clicks,Impressions,CTR,Position
+http://localhost:8000/blog/post-b.html,"1,240",38200,3.25%,6.1
+http://localhost:8000/blog/post-a.html,310,12900,2.4%,9.8
+http://localhost:8000/,280,5100,5.49%,3.2
+http://localhost:8000/pricing.html,95,2600,3.65%,7.4
+http://localhost:8000/features.html,40,1900,2.11%,11.5

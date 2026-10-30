@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>http://localhost:8000/</loc></url>
+  <url><loc>http://localhost:8000/features.html</loc></url>
+  <url><loc>http://localhost:8000/pricing.html</loc></url>
+  <url><loc>http://localhost:8000/blog/</loc></url>
+  <url><loc>http://localhost:8000/blog/post-a.html</loc></url>
+  <url><loc>http://localhost:8000/blog/post-b.html</loc></url>
+  <url><loc>http://localhost:8000/webinar.html</loc></url>
+</urlset>
